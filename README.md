@@ -9,7 +9,7 @@ It documents my journey as I build skills in data cleaning, analysis, visualizat
 ## 📌 Note
 
 👉 For polished, end-to-end projects, check out my main portfolio:
-**[data-analytics-portfolio](https://github.com/your-username/data-analytics-portfolio)**
+**[data-analytics-portfolio](https://github.com/usaid17/data-analytics-portfolio)**
 
 ---
 
